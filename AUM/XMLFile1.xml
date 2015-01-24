@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<Sites>
+  <Site>
+    <SiteUrl>www.google.com</SiteUrl>
+    <SiteDescp>sdfsdfsdf</SiteDescp>
+    <RequestInterval>5000</RequestInterval>
+    <RequestThreshold>10000</RequestThreshold>
+    <RequestTimeout>50000</RequestTimeout>
+    <ErrorMessage>This is a sample error message</ErrorMessage>
+  </Site>
+  <Site>
+    <SiteUrl>www.google.com</SiteUrl>
+    <SiteDescp>sdfsdfsdf</SiteDescp>
+    <RequestInterval>5000</RequestInterval>
+    <RequestThreshold>10000</RequestThreshold>
+    <RequestTimeout>50000</RequestTimeout>
+    <ErrorMessage>This is a sample error message</ErrorMessage>
+  </Site>
+  <Site>
+    <SiteUrl>www.google.com</SiteUrl>
+    <SiteDescp>sdfsdfsdf</SiteDescp>
+    <RequestInterval>5000</RequestInterval>
+    <RequestThreshold>10000</RequestThreshold>
+    <RequestTimeout>50000</RequestTimeout>
+    <ErrorMessage>This is a sample error message</ErrorMessage>
+  </Site>
+  </Sites>   
+
+

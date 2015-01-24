@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<Sites>
+  <Site>
+    <SiteUrl>https://www.google.com/?gws_rd=ssl</SiteUrl>
+    <SiteDescp>Test Link</SiteDescp>
+    <RequestSent>1</RequestSent>
+    <RequestInterval>10</RequestInterval>
+    <RequestThreshold>30</RequestThreshold>
+    <RequestTimeout>30</RequestTimeout>
+    <ErrorMessage>Ready</ErrorMessage>
+    <EmailAddressTo>rajesh.shetty@Ikran.com</EmailAddressTo>
+    <EmailAddressCc>rajesh.shetty@Ikran.com</EmailAddressCc>
+  </Site>
+</Sites>
